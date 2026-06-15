@@ -1,4 +1,3 @@
-# nextJS-clinic-system
 # Clinic System
 
 A full-stack clinic appointment management system built with Next.js 16, Prisma 7, and PostgreSQL (Neon). Patients can browse doctors, book appointments, and manage their schedule. Doctors can manage their availability and confirm or complete appointments.
