@@ -1,1 +1,26 @@
-node_modules
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# env
+.env
+.env.local
+.env.*.local
+
+# build
+.next/
+out/
+
+# prisma
+src/generated/
+
+# uploads
+public/uploads/*
+!public/uploads/.gitkeep
+
+# misc
+*.log
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
